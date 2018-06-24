@@ -1,5 +1,5 @@
 # joy
-This is a function to generate a joyplot movie (.avi).
+This is a function to generate a joyplot movie (.avi), such as from calcium imaging data.
 
 - Run start.m to begin.
 - See joy.mp4 for an example
